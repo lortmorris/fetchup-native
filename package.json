@@ -1,0 +1,26 @@
+{
+  "name": "fetchup-native",
+  "version": "1.0.0",
+  "description": "is a wrapper for fetch function. Easy and faste way for use universal pattern request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lortmorris/fetchup-native.git"
+  },
+  "keywords": [
+    "fetch",
+    "request",
+    "universal",
+    "pattern",
+    "react-native"
+  ],
+  "author": "César Casas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lortmorris/fetchup-native/issues"
+  },
+  "homepage": "https://github.com/lortmorris/fetchup-native#readme"
+}
